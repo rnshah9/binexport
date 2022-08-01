@@ -1,4 +1,4 @@
 project: binexport
 target: binexport2dump
 cmds:
-  - cmd: /repo/build/tools/binexport2dump @@
+  - cmd: /install/binexport-prefix/binexport2dump @@
